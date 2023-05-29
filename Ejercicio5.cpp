@@ -6,6 +6,7 @@ int main() {
     double tarifaPorHora;
     double sueldoBruto;
     char continuar = 's';
+    int culo3;
 
     while (continuar == 's' || continuar == 'S') {
        
