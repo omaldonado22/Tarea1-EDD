@@ -57,6 +57,7 @@ int main() {
     int arreglo[12];
     int culo;
     int culo2;
+    int culo3;
 
 cout << "Ingrese los valores del arreglo:" << std::endl;
     for (int i = 0; i < 12; i++) {
