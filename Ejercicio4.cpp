@@ -5,6 +5,7 @@ int main() {
     const double comisionPorcentaje = 0.09;
     const double salarioBase = 200.0;
     char continuar = 's';
+    double rr;
 
     while (continuar == 's' || continuar == 'S') {
         // Ingreso de las ventas brutas
