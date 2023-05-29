@@ -8,6 +8,7 @@ int main() {
     int salarios[9] = {0};
     int culo;
     int culo;
+    int culo2;
 
     for (int i = 0; i < NUM_VENDEDORES; i++) {
         cout << "Ingrese la cantidad de ventas del vendedor " << i + 1 << ": ";
