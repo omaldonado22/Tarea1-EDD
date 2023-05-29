@@ -1,9 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int culo;
-    int culo2;
-    int culo3;
     const int numCandidatos = 12;
     int votos[numCandidatos] = {0};
 

@@ -6,8 +6,6 @@ int main() {
     double tarifaPorHora;
     double sueldoBruto;
     char continuar = 's';
-    int culo3;
-    //dccweececre
 
     while (continuar == 's' || continuar == 'S') {
        

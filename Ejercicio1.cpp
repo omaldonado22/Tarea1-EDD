@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 <<<<<<< HEAD
+<<<<<<< HEAD
 
  int NUM_VENDEDORES = 10;
 
@@ -59,6 +60,11 @@ int main() {
     int culo2;
     int culo3;
     int culo4;
+=======
+int main() {
+    int arreglo[12];
+    int culo;
+>>>>>>> c4fe329 (EJERCICIOS DE TAREA)
 
 cout << "Ingrese los valores del arreglo:" << std::endl;
     for (int i = 0; i < 12; i++) {
@@ -78,4 +84,7 @@ cout << "Ingrese los valores del arreglo:" << std::endl;
 
     return 0;
 }
+<<<<<<< HEAD
+>>>>>>> c4fe329 (EJERCICIOS DE TAREA)
+=======
 >>>>>>> c4fe329 (EJERCICIOS DE TAREA)

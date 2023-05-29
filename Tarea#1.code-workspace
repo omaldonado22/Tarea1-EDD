@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Ulprueba"
+		},
+		{
+			"name": "Ulprueba",
+			"path": "../Ulprueba/Ulprueba"
+		},
+		{
+			"name": "Estasi",
+			"path": "../../../Desktop/Estasi/Estasi"
+		}
+	],
+	"settings": {}
+}
