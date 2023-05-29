@@ -1,8 +1,5 @@
 #include <iostream>
 using namespace std;
-<<<<<<< HEAD
-<<<<<<< HEAD
-
  int NUM_VENDEDORES = 10;
 
 int main() {
@@ -52,39 +49,3 @@ int main() {
 
     return 0;
 }
-
-=======
-int main() {
-    int arreglo[12];
-    int culo;
-    int culo2;
-    int culo3;
-    int culo4;
-=======
-int main() {
-    int arreglo[12];
-    int culo;
->>>>>>> c4fe329 (EJERCICIOS DE TAREA)
-
-cout << "Ingrese los valores del arreglo:" << std::endl;
-    for (int i = 0; i < 12; i++) {
-    cout << "Valor " << i + 1 << ": ";
-    cin >> arreglo[i];
-    }
-
-    int maximo = arreglo[0];
-    for (int i = 1; i < 12; i++) {
-        if (arreglo[i] > maximo) {
-            maximo = arreglo[i];
-        }
-    }
-
-    // Mostrar el valor máximo en pantalla
-    std::cout << "El valor máximo es: " << maximo <<endl;
-
-    return 0;
-}
-<<<<<<< HEAD
->>>>>>> c4fe329 (EJERCICIOS DE TAREA)
-=======
->>>>>>> c4fe329 (EJERCICIOS DE TAREA)
